@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import Login from './components/Auth/Login'
+import Login from './Components/Auth/Login'
 import EmployeeDashboard from './Components/Dashboard/EmployeeDashboard'
 import AdminDashboard from './Components/Dashboard/AdminDashboard'
 import { AuthContext } from './Context/Authprovider'
